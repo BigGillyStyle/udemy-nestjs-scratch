@@ -1,0 +1,30 @@
+{
+  "name": "udemy-nestjs-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigGillyStyle/udemy-nestjs-scratch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BigGillyStyle/udemy-nestjs-scratch/issues"
+  },
+  "homepage": "https://github.com/BigGillyStyle/udemy-nestjs-scratch#readme",
+  "dependencies": {
+    "@nestjs/common": "^7.6.17",
+    "@nestjs/core": "^7.6.17",
+    "@nestjs/platform-express": "^7.6.17",
+    "reflect-metadata": "^0.1.13",
+    "typescript": "^4.3.2"
+  },
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.2"
+  }
+}
